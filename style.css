@@ -1,0 +1,21 @@
+body{
+	color: #6b6b6b;
+}
+.h2{
+	color: #000;
+}
+.border_line{
+border-radius: 25px;
+    background: #1181ca;
+    /*box-shadow: 2px 2px 5px #1180c8, -2px -2px 6px #1182cc;*/
+}
+
+.border_line, .h3{
+	color: #fff;
+}
+
+.borderQuestion{
+	border: 1px solid #dee2e6!important;
+	background-color: #f0f4f7;
+	border-radius: 25px;
+}
